@@ -1,6 +1,4 @@
 from pycompss.api.task import task
-from pycompss.api.parameter import FILE_INOUT
-from pycompss.api.api import compss_barrier
 from pycompss.api.api import compss_wait_on
 
 import numpy as np
